@@ -1,5 +1,5 @@
-package JavaKlassenDef;
-
+package student;
+import student.Student;
 public class StudentApp {
 
 	public static void main(String[] args) {
