@@ -7,7 +7,7 @@ public class StudentApp {
 	public static void main(String[] args) {
 
 		Student anna = new Student();
-		Student atilla = new Student();
+		
 		
 		anna.setId(1);
 		anna.setName("Anna");
